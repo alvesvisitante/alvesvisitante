@@ -2,96 +2,98 @@
 
 
 ---
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caskadya+Code&size=22&pause=1000&color=D9EDF7&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Ol%C3%A1%2C+sou+Erik!" alt="Typing SVG" /></a>
 
-## 🤖 Linguagens e Tecnologias
+<h3>Desenvolvedor Backend do Brasil! 🇧🇷</h3>
 
-<img 
-align="left" 
-alt="HTML"
-title="HTML" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-align="left" 
-alt="CSS" 
-title="CSS"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-align="left" 
-alt="JavaScript" 
-title="JavaScript"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-align="left" 
-alt="TypeScript"
-title="TypeScript" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-align="left" 
-alt="React"
-title="React" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-align="left" 
-alt="Bootstrap"
-title="Bootstrap" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-align="left" 
-alt="Tailwind" 
-title="Tailwind"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-align="left" 
-alt="PHP" 
-title="PHP"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-align="left" 
-alt="Git" 
-title="Git"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-align="left" 
-alt="Python" 
-title="Python"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<p>
+Sou apaixonado por tecnologia, estudante de tecnologias voltadas para <strong>Desenvolvimento Backend</strong> e <strong>Cyber Security</strong>. 👾🎲 <br>
+Sou movido pela vontade constante de aprender, sempre buscando aprimorar minhas habilidades e criar soluções eficientes! 💽🖥️ <br>
+Além do código, sou um amante de <strong>música</strong>! 🎵🎶🎧
+</p>
 
-### 📬 Entre em contato comigo:
+<h3>📬 Entre em contato comigo: </h3>
 
-<img align="left">
-  <a href="https://www.instagram.com/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:SEU_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</img>
+<div align="center"> 
+  <a href="https://instagram.com/8e.r.i.k8" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:9xerikx6@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/erik-santosx6" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+</div>
 
 ---
+
+<p><strong>🛠️ Minha Stack </strong></p>
+<div align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="35" height="35"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="35" height="35"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="35" height="35"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="35" height="35"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="35" height="35"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" height="35"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" width="35" height="35"/>
+  </a>
+</div>
+
+<details>
+  <summary><strong>🎓 Formações</strong></summary>
+  <ul>
+    <li>💻 Técnico em Informática - IFPI</li>
+    <li>📚 Cursando Análise e Desenvolvimento de Sistemas - IFPI</li>
+  </ul>
+</details>
+
+
+<details>
+  <summary><strong>📊 Estatísticas</strong></summary>
+  <br>
+  <div align="center">
+    <img height="180px" aling="left" src="https://github-readme-stats.vercel.app/api?username=9eriksantos6&show_icons=true&locale=pt-br&theme=tokyonight" alt="Erik GitHub Stats" />
+    <img height="180px" aling="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=9eriksantos6&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="Erik Top Langs" />
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=9eriksantos6&theme=tokyonight" alt="Erik Streak Stats" /> -->
+  </div>
+</details>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/9erikSantos6/9erikSantos6/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/9erikSantos6/9erikSantos6/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/9erikSantos6/9erikSantos6/output/github-contribution-grid-snake.svg">
+</picture>

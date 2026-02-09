@@ -24,7 +24,7 @@ Sempre busco aprender mais, tentando resolver problemas usando programação, en
 
 ---
 
-<p><strong>🛠️ Stack </strong></p>
+<p><strong>🛠️ Stacks </strong></p>
 <div align="center">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
@@ -57,7 +57,7 @@ Sempre busco aprender mais, tentando resolver problemas usando programação, en
 
 <details>
   <ul>
-    <li>📚 Cursando Análise e Desenvolvimento de Sistemas💻- IFPI</li>
+    <li>📚 Cursando Análise e Desenvolvimento de Sistemas 💻- IFPI</li>
   </ul>
 </details>
 

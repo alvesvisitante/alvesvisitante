@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg">
+<a 
   <img src="https://readme-typing-svg.demolab.com?font=Caskadya+Code&size=22&pause=1000&multiLine=true&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Ol%C3%A1%2C+sou+Samuel!;%F0%9F%91%8B%F0%9F%8F%BB+Ol%C3%A1%2C+sou+Samuel!;%F0%9F%91%8B%F0%9F%8F%BB+Ol%C3%A1%2C+sou+Samuel!&colors=A020F0;2ECC71;EE82EE" alt="Typing SVG" />
 </a>
 <h3> Desenvolvedor Front-end </h3>

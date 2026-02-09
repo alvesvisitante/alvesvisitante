@@ -4,7 +4,7 @@
 ---
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caskadya+Code&size=22&pause=1000&color=D9EDF7&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Ol%C3%A1%2C+sou+Erik!" alt="Typing SVG" /></a>
 
-<h3>Desenvolvedor Backend do Brasil! 🇧🇷</h3>
+<h3> Desenvolvedor Front-end </h3>
 
 <p>
 Sou apaixonado por tecnologia, estudante de tecnologias voltadas para <strong>Desenvolvimento Backend</strong> e <strong>Cyber Security</strong>. 👾🎲 <br>
@@ -74,8 +74,7 @@ Além do código, sou um amante de <strong>música</strong>! 🎵🎶🎧
 <details>
   <summary><strong>🎓 Formações</strong></summary>
   <ul>
-    <li>💻 Técnico em Informática - IFPI</li>
-    <li>📚 Cursando Análise e Desenvolvimento de Sistemas - IFPI</li>
+    <li>📚 Cursando Análise e Desenvolvimento de Sistemas💻- IFPI</li>
   </ul>
 </details>
 

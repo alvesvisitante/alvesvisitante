@@ -7,9 +7,8 @@
 <h3> Desenvolvedor Front-end </h3>
 
 <p>
-Sou apaixonado por tecnologia, estudante de tecnologias voltadas para <strong>Desenvolvimento Backend</strong> e <strong>Cyber Security</strong>. 👾🎲 <br>
-Sou movido pela vontade constante de aprender, sempre buscando aprimorar minhas habilidades e criar soluções eficientes! 💽🖥️ <br>
-Além do código, sou um amante de <strong>música</strong>! 🎵🎶🎧
+Sou um estudante de ADS apaixonado por tecnologia 💻. Gosto de <strong>Design</strong> e <strong>Desenvolvimento Front-end</strong>.<br>
+Sempre busco aprender mais, tentando resolver problemas usando programação, encarando desafios, testando novas tecnologias etc 📚. 
 </p>
 
 <h3>📬 Entre em contato comigo: </h3>

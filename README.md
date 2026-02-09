@@ -72,26 +72,9 @@ Além do código, sou um amante de <strong>música</strong>! 🎵🎶🎧
 </div>
 
 <details>
-  <summary><strong>🎓 Formações</strong></summary>
   <ul>
     <li>📚 Cursando Análise e Desenvolvimento de Sistemas💻- IFPI</li>
   </ul>
 </details>
 
 
-<details>
-  <summary><strong>📊 Estatísticas</strong></summary>
-  <br>
-  <div align="center">
-    <img height="180px" aling="left" src="https://github-readme-stats.vercel.app/api?username=9eriksantos6&show_icons=true&locale=pt-br&theme=tokyonight" alt="Erik GitHub Stats" />
-    <img height="180px" aling="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=9eriksantos6&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="Erik Top Langs" />
-<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=9eriksantos6&theme=tokyonight" alt="Erik Streak Stats" /> -->
-  </div>
-</details>
-
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/9erikSantos6/9erikSantos6/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/9erikSantos6/9erikSantos6/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/9erikSantos6/9erikSantos6/output/github-contribution-grid-snake.svg">
-</picture>

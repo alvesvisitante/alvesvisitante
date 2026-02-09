@@ -1,6 +1,4 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Caskadya+Code&size=22&pause=1000&color=7FD2FF&center=false&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Ol%C3%A1%2C+sou+Samuel!;%F0%9F%91%8B%F0%9F%8F%BB+Ol%C3%A1%2C+sou+Samuel!" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Caskadya+Code&size=22&pause=1000&color=D9EDF7&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Ol%C3%A1%2C+sou+Samuel!">
 <h3> Desenvolvedor Front-end </h3>
 
 <p>
